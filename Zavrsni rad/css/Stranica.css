@@ -1,0 +1,74 @@
+#dobardan{
+    font-size: 350%;
+    text-align: center;
+    font-family: 'system-ui',serif;
+    color:pink;
+    
+    
+}
+
+
+
+.gumb{
+    padding:5px 20px;
+    text-align:center;
+    display: inline-block;
+    font-size: 20px;
+    background-color:palevioletred;
+    border-radius: 8px;
+    
+}
+
+#gumb2{
+    padding:5px 20px;
+    text-align:center;
+    background-color:lightgray;
+}
+
+#crnac{
+    background-image:url(Bellissima\ nokti\ 2.jpg), url(Bellissima\ slika\ 1.jpg);
+    background-position: left,right;
+    background-blend-mode: multiply;
+    background-color: rgb(156, 154, 154);
+    background-repeat: no-repeat,no-repeat;
+    background-size: 50%,50%;
+    height: 500px;
+    
+}
+
+#uff{
+    text-align: center;
+    padding-inline: 10cm;
+    padding-block-start: 4cm;
+    
+    
+
+}
+
+body{
+    margin: 0px;
+}
+
+.slike{
+   display: grid;
+   grid-template-columns: 15cm 17cm 10cm ;
+   align-items: center; 
+   
+    
+}
+
+.dobrodošlica{
+    font-size: large;
+    font-family: system-ui;
+    
+
+}
+
+#kraj{
+    height: 230px;
+    text-align: center;
+    font-family: system-ui;
+    font-size: large;
+    background-color: lightsteelblue;
+    padding-top: 0px;
+}
